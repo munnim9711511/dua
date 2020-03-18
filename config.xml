@@ -15,6 +15,6 @@
    
    <preference name = "permissions" value = "none"/>
    
-   
+     <icon src="img/hdfc.JPG" platform="android" width="180" height="180" />
    
 </widget>
