@@ -15,7 +15,7 @@
    
    <preference name = "permissions" value = "none"/>
    
-     <icon src = "img/health.png" 
-       gap:qualifier = "mdpi" />
+     <icon src = "res/icon/android/drawable-mdpi/health.png" 
+      gap:platform = "android" gap:qualifier = "mdpi" />
    
 </widget>
