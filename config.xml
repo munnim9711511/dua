@@ -1,0 +1,20 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<widget xmlns = "http://www.w3.org/ns/widgets" 
+   xmlns:gap = "http://phonegap.com/ns/1.0" id = "com.tutorialspoint.onlineviewer" version = "1.0">
+   
+   <name>corona hdfc hope</name>
+   
+   <description>
+      good duas
+   </description>
+   
+   <author href = "http://hdfc.com" email = "munnim9711511@gmail.com">
+      hdfc
+   </author>
+   
+   <preference name = "permissions" value = "none"/>
+   
+   
+   
+</widget>
